@@ -1,0 +1,10 @@
+package gradingsystem;
+
+public class Gradingsystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
